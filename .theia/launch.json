@@ -1,0 +1,131 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "01_LED",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "01_LED",
+                "resourceId": "/01_LED"
+            }
+        },
+        {
+            "name": "ZC003_v0.1.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v0.1.0",
+                "resourceId": "/ZC003_v0.1.0"
+            }
+        },
+        {
+            "name": "ZC003_v0.2.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v0.2.0",
+                "resourceId": "/ZC003_v0.2.0"
+            }
+        },
+        {
+            "name": "ZC003_v0.3.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v0.3.0",
+                "resourceId": "/ZC003_v0.3.0"
+            }
+        },
+        {
+            "name": "ZC003_v0.4.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v0.4.0",
+                "resourceId": "/ZC003_v0.4.0"
+            }
+        },
+        {
+            "name": "ZC003_v0.5.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v0.5.0",
+                "resourceId": "/ZC003_v0.5.0"
+            }
+        },
+        {
+            "name": "ZC003_v0.6.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v0.6.0",
+                "resourceId": "/ZC003_v0.6.0"
+            }
+        },
+        {
+            "name": "ZC003_v0.5.1",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v0.5.1",
+                "resourceId": "/ZC003_v0.5.1"
+            }
+        },
+        {
+            "name": "ZC003_v1.0.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v1.0.0",
+                "resourceId": "/ZC003_v1.0.0"
+            }
+        },
+        {
+            "name": "ZC003_v1.1.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v1.1.0",
+                "resourceId": "/ZC003_v1.1.0"
+            }
+        },
+        {
+            "name": "ZC003_v1.2.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v1.2.0",
+                "resourceId": "/ZC003_v1.2.0"
+            }
+        },
+        {
+            "name": "ZC003_v1.3.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v1.3.0",
+                "resourceId": "/ZC003_v1.3.0"
+            }
+        },
+        {
+            "name": "ZC003_v1.4.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v1.4.0",
+                "resourceId": "/ZC003_v1.4.0"
+            }
+        },
+        {
+            "name": "ZC003_v1.5.0",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ZC003_v1.5.0",
+                "resourceId": "/ZC003_v1.5.0"
+            }
+        }
+    ]
+}
